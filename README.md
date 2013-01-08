@@ -1,13 +1,13 @@
 # dubbo-repl
 
-FIXME: write description
+commandline client for [Dubbo](https://github.com/alibaba/dubbo)
 
 ## Usage
 
-FIXME: write
+
 
 ## License
 
-Copyright (C) 2013 FIXME
+Copyright (C) 2013 xumingming
 
 Distributed under the Eclipse Public License, the same as Clojure.
